@@ -1,0 +1,65 @@
+body {
+  background-color: #17181a;
+}
+.upload-btn {
+  float: right;
+  background-color: rgb(126, 199, 223);
+  margin-right: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.upload-icon {
+  margin-right: 10px;
+}
+.navbar-brand {
+  float: left;
+}
+.SearchBar {
+  background-color: #17181a;
+}
+.filter-btn button {
+  margin: 20px 25px 4px 5px;
+  border-radius: 30px;
+  background-color: transparent;
+  color: white;
+  border: none;
+}
+.filter-btn button:hover {
+  background-color: white;
+  color: black;
+}
+
+.filter-container {
+  background-color: rgba(33, 37, 41, 1) !important;
+}
+.release-btn {
+  margin: 20px 25px 4px 5px;
+  width: 150px;
+  border-radius: 30px;
+  background-color: white;
+  color: black;
+  border: none;
+}
+
+.vid-cont {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.card-body {
+  color: white;
+  background-color: #17181a;
+}
+.CardHead {
+  border: none;
+}
+.cardtitle {
+  width: 100%;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.Upload-Modal {
+  color: #17181a;
+}
